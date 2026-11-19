@@ -1,0 +1,1 @@
+import{j as t,N as r}from"./index-BHLw2FRs.js";import{R as e}from"./Resultado-DUL6EnOK.js";import{u as a}from"./estado-U5oeFzYp.js";const m=()=>{const o=a();return o.anterior?t.jsx(e,{mapa:o.anterior.resultado,checks:{},anterior:o.anterior.concluido_em}):t.jsx(r,{to:"/"})};export{m as component};

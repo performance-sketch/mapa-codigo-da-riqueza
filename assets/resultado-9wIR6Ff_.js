@@ -1,0 +1,1 @@
+import{R as r,j as s,N as e}from"./index-BHLw2FRs.js";import{R as a}from"./Resultado-DUL6EnOK.js";import{u as m}from"./estado-U5oeFzYp.js";const u=()=>{const o=m(),{imprimir:t}=r.useSearch();return o.resultado?s.jsx(a,{mapa:o.resultado,checks:o.checks,imprimir:!!t}):s.jsx(e,{to:"/"})};export{u as component};
