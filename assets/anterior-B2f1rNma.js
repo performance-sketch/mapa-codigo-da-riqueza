@@ -1,0 +1,1 @@
+import{j as t,N as r}from"./index-D9iI6Ez9.js";import{R as e}from"./Resultado-BFQr5xJG.js";import{u as a}from"./estado-DzjW_Hsa.js";import"./motor-AFE4lcuG.js";import"./PerfilCompleto-ClXYQH8S.js";const u=()=>{const o=a();return o.anterior?t.jsx(e,{mapa:o.anterior.resultado,checks:{},anterior:o.anterior.concluido_em}):t.jsx(r,{to:"/"})};export{u as component};
